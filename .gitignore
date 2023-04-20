@@ -1,0 +1,8 @@
+.DS_Store
+venv
+.vscode
+*.json
+*.csv
+*.log
+*.html
+code/__pycache__/
