@@ -1,6 +1,8 @@
 # FootballScraper
 
-Football Scraper is a Python-based project that scrapes football match data from the English Championship and retrieves match links from a the ESPN website. It provides an efficient and easy-to-use way to collect football match data for analysis. **I have already found that the data seems to be at odds with other sources, but the data is correct as the website displays it.**
+Football Scraper is a Python-based project that scrapes football match data from the English Championship and retrieves match links from a the ESPN website. It provides an efficient and easy-to-use way to collect football match data for analysis. 
+
+**I have already found that the data seems to be at odds with other sources, but the data is correct as the website displays it.**
 
 ## Features
 
